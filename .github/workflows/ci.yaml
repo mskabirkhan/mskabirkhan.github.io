@@ -10,7 +10,11 @@ jobs:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
         with:
+<<<<<<< HEAD
           ruby-version: 3.0.0
+=======
+          ruby-version: 2.7
+>>>>>>> parent of c27a30c (Merge pull request #405 from pages-themes/publish-gem)
           bundler-cache: true
       - name: build
         run: script/bootstrap
