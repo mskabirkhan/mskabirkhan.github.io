@@ -1,23 +1,22 @@
-title: <p align="center"> Shahriar Kabir Khan </p>
+title: "<p align=\"center\">Shahriar Kabir Khan</p>"
 
 logo: "assets/img/logo.png?raw=true"
 
-description: <p align="center">
-  <a href="assets/pdf/CV - Shahriar Kabir Khan.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/kabiruh19/">LinkedIn</a> |
-  <a href="https://twitter.com/shahriarkabir73">Twitter</a> |
-  <a href="https://stackoverflow.com/users/9453613/shahriar-kabir-khan">Stack Overflow</a>
+description: |
+  <p align="center">
+    <a href="assets/pdf/CV - Shahriar Kabir Khan.pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/kabiruh19/">LinkedIn</a> |
+    <a href="https://twitter.com/shahriarkabir73">Twitter</a> |
+    <a href="https://stackoverflow.com/users/9453613/shahriar-kabir-khan">Stack Overflow</a>
   </p>
 
   <p align="justify">
-  <br><br>
-  Hello, I am Shahriar Kabir Khan. My friends call me Kabir. I am a recent MSc AI graduate from Queen Mary University of London. 
-  
-  I work as a Digital, Data and Technology Graduate at NHS England.Previously I worked as a Data Curator at Health Data Research UK where I also completed my one-year industrial experience as Data Engineer Intern as a part of my MSc degree, 
-  my work is/was focused on working with large amount health data including crating data pipeliens on Microsoft Azure, debugging and testing, data wrangling, visualising, deploying etc.
-  Previously, I was working as Data Curator at Health Data Research UK where I also completed my one-year industrial experience as Data Engineer Intern, focused on working with large amount health data, data wrangling, visualising, deploying.
-  <br><br>
+    <br><br>
+    Hello, I am Shahriar Kabir Khan. My friends call me Kabir. I am a recent MSc AI graduate from Queen Mary University of London. 
+
+    I work as a Digital, Data and Technology Graduate at NHS England. Previously, I worked as a Data Curator at Health Data Research UK, where I also completed my one-year industrial experience as a Data Engineer Intern as part of my MSc degree. My work focuses on handling large amounts of health data, including creating data pipelines on Microsoft Azure, debugging and testing, data wrangling, visualizing, and deploying.
+    <br><br>
   </p>
 
 theme: jekyll-theme-minimal
-// google_analytics: # Google Analytics tracking ID
+# google_analytics: # Google Analytics tracking ID
