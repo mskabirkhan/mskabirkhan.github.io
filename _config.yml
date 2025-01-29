@@ -1,20 +1,20 @@
 title: Shahriar Kabir Khan
 logo: /assets/img/Kabir_Logo.png
-description: >
+description: |
   <p align="center">
-      <a href="assets/pdf/CV - Shahriar Kabir Khan.pdf">Resume</a> |
-      <a href="https://www.linkedin.com/in/kabiruh19/">LinkedIn</a> |
-      <a href="https://stackoverflow.com/users/9453613/shahriar-kabir-khan">Stack Overflow</a>
+    <a href="assets/pdf/CV - Shahriar Kabir Khan.pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/kabiruh19/">LinkedIn</a> |
+    <a href="https://stackoverflow.com/users/9453613/shahriar-kabir-khan">Stack Overflow</a>
   </p>
-
   <p align="justify">
-      <br><br>
-      Hello, I am Kabir. I work as Real World Data Engineer at Medicines and Healthcare products Regulatory Agency. 
-      Previously, I completed Digital, Data and Technology Graduate scheme at NHS England as a Data Engineer. I also worked as a Data Engineer at Health Data Research UK.
-      I hold an MSc in Artificial Intelligence from Queen Mary University of London and completed my BSc in Software Engineering.
-      <br><br>
+    Hello, I am Kabir. I am a Real World data Engineer at the Medicines and Healthcare Products Regulatory Agency (MHRA).
+  </p>
+  
+  <p align="justify">
+    Previously, I completed the Digital, Data and Technology Graduate scheme at NHS England as a Data Engineer. I also worked as a Data Engineer at Health Data Research UK (HDRUK). 
+    I hold an MSc in Artificial Intelligence from the Queen Mary University of London and completed my BSc in Software Engineering.
   </p>
 
-show_downloads: true
+show_downloads: false
 google_analytics: "" # Add your Google Analytics tracking ID here if applicable
 theme: jekyll-theme-minimal
