@@ -1,8 +1,6 @@
 title: Shahriar Kabir Khan
 logo: /assets/img/Kabir_Logo.png
 description: >
-  Welcome to my portfolio.
-
   <p align="center">
       <a href="assets/pdf/CV - Shahriar Kabir Khan.pdf">Resume</a> |
       <a href="https://www.linkedin.com/in/kabiruh19/">LinkedIn</a> |
@@ -11,10 +9,8 @@ description: >
 
   <p align="justify">
       <br><br>
-      Hello, I am Kabir. RI work as Real World Data Engineer at Medicines and Healthcare products Regulatory Agency. Previously, I completed Digital, Data and Technology Graduate scheme at NHS England as a Data Engineer.
-      <br><br>
-      I also worked as a Data Curator at Health Data Research UK, where I also completed my one-year industrial experience as a Data Engineer Intern as part of my MSc degree. My work focuses on handling large amounts of health data, including creating data pipelines on Microsoft Azure, debugging and testing, data wrangling, visualizing, and deploying.
-      <br><br>
+      Hello, I am Kabir. I work as Real World Data Engineer at Medicines and Healthcare products Regulatory Agency. 
+      Previously, I completed Digital, Data and Technology Graduate scheme at NHS England as a Data Engineer. I also worked as a Data Engineer at Health Data Research UK.
       I hold an MSc in Artificial Intelligence from Queen Mary University of London and completed my BSc in Software Engineering.
       <br><br>
   </p>
