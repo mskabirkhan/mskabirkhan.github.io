@@ -66,7 +66,6 @@ Description: Developed basic hand digit recognition classifier and trained on MN
 <br>
 
 ---
-<<<<<<< HEAD
 ## <img src="assets\img\image-4.png" alt="Natural Language Processing" width="25" style="height: auto;"> Natural Language Processing
 
 ### Word Representation and Text Classification with Neural Networks
@@ -104,6 +103,3 @@ Description: This is NLP project divided into 4 parts includes Word Embeddings w
 ---
 
 <center>© 2025 MS Kabir Khan. Powered by Jekyll and the Minimal Theme.</center>
-=======
-<center>© 2024 MS Kabir Khan. Powered by Jekyll and the Minimal Theme.</center>
->>>>>>> parent of 3c2d8b8 (Update index.md)
