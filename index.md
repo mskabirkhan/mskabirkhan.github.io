@@ -6,7 +6,7 @@ layout: default
 
 ## <img src="assets\img\image-2.png" alt="Machine Learning and Deep Learning" width="25" style="height: auto;"> Machine Learning and Deep Learning
 
-### Deep Learning based drone detection - YOLOv4
+### Deep Learning based drone detection - You Only Look Once (YOLO) v4
 
 Description: Developed deep learning based drone detection system that able to detect any flying drone in real time. I have used You only look once (YOLOv4) object detection framework to implement this project. I have trained 6000 imgaes (4000 was manually labelled by labelimg tools) to traine this model and tested in live environment.
 
