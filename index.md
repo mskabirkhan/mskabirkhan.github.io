@@ -90,7 +90,9 @@ Description: This is NLP project divided into 4 parts includes Word Embeddings w
 <br>
 <center><img src="assets\img\ames-house-price.png"/></center>
 <br>
+
 ---
+
 ### Predict Breast Cancer with RF, PCA and SVM using Python
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
@@ -100,6 +102,7 @@ Description: This is NLP project divided into 4 parts includes Word Embeddings w
 <br>
 <center><img src="assets\img\breast-cancer.png"/></center>
 <br>
+
 ---
 
 <center>© 2025 MS Kabir Khan. Powered by Jekyll and the Minimal Theme.</center>
