@@ -65,4 +65,4 @@ Description: Developed basic hand digit recognition classifier and trained on MN
 <br>
 
 ---
-<center>© 2024 MS Kabir Khan. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2025 MS Kabir Khan. Powered by Jekyll and the Minimal Theme.</center>
