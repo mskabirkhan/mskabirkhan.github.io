@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Education
 
-_yay_
 
 [back](./)
